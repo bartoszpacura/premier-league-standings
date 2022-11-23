@@ -1,6 +1,6 @@
 # Premier League Stats
 
-A simple api showing the current standings Premier League standings and the number of goals scored by each team.
+A simple api showing the current Premier League standings and the number of goals scored by each team.
 
 The data is downloaded from the official Premier League website.
 
