@@ -6,10 +6,16 @@ The data is downloaded from the official Premier League website.
 
 
 ## Installation
+After cloning the repository follow the steps below:
+
 
 Create a new virtual environment.
 ```
 python -m venv myvenv
+```
+Run the virtual environment.
+```
+source /path/to/myvenv/Scripts/activate
 ```
 Upgrade pip.
 ```
@@ -19,6 +25,7 @@ Install the required packages.
 ```
 pip install -r requirements.txt
 ```
+
 
 ## Consuming the API
 
