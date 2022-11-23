@@ -25,6 +25,10 @@ Install the required packages.
 ```
 pip install -r requirements.txt
 ```
+Run the development server.
+```
+python api.py
+```
 
 
 ## Consuming the API
