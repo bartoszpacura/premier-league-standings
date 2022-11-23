@@ -34,4 +34,5 @@ python api.py
 ## Consuming the API
 
 Getting the current Premier League standings and the number of goals scored by each team:
+
 `GET http://127.0.0.1:5000`
