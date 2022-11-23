@@ -1,4 +1,4 @@
-# Premier League Stats
+# Premier League Standings
 
 A simple api showing the current Premier League standings and the number of goals scored by each team.
 
